@@ -1,2 +1,2 @@
 # fraud_detection
-helps in detecting the fraudulent transactions made online.
+Online payments offers several benefits, such as ease of use, speed and accessibility. However, this digital shift has made a significant place for fradulent activities as well where they exploits security gaps through phishing, fake websites etc. With the increasing threat of cyber crime more conventional methods of fraud detection have been less efficient. The research is based on a vast dataset of transaction records using feature engineering to draw out the necessary attributes and increase model performance. A comparison is made across different ML algorithms such as Decision Tree, Logistic Regression, Random Forest, Gradient Boosting, and XGBoost—for identifying online payment fraud.
